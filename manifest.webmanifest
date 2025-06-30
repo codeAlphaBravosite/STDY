@@ -1,12 +1,12 @@
 {
-  "name": "LogReel Pro",
-  "short_name": "LogReel",
-  "description": "LogReel Pro",
+  "name": "Syllabook",
+  "short_name": "Syllabook",
+  "description": "Syllabook",
   "start_url": "./index.html",
   "scope": ".",
   "display": "standalone",
-  "background_color": "#F9FAFB",
-  "theme_color": "#3B82F6",
+  "background_color": "#f8f9fc",
+  "theme_color": "#4f46e5",
   "orientation": "natural",
   "categories": ["productivity", "utilities"],
   "icons": [
