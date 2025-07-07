@@ -1,6 +1,6 @@
 // --- START OF FILE sw.js ---
 
-const VERSION = '3.0.0'; // Version matches your app version
+const VERSION = '3.0.1'; // Version matches your app version
 const APP_PREFIX = 'cuet-command-center'; // Unique prefix for this app's caches
 const CACHE_NAME = `${APP_PREFIX}-v${VERSION}`;
 
